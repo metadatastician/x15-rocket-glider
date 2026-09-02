@@ -5,11 +5,11 @@
 #
 [metadata]
 version = "0.1.0"
-last-updated = "{{CURRENT_DATE}}"
+last-updated = "2026-09-02"
 
 [project]
-name = "[YOUR-REPO-NAME]"
-purpose = "{{PROJECT_DESCRIPTION}}"
+name = "X15-rocket-glider"
+purpose = "Fourth Stealth Glider investigation: scope not yet specified. Reserved placeholder in the metadatastician Stealth Glider line."
 
 [ai-allocation]
 agents = [

@@ -40,7 +40,7 @@ erl_crash.dump
 *.jl.mem
 /Manifest.toml
 
-# 
+#
 /lib/bs/
 /.bsb.lock
 
@@ -149,4 +149,3 @@ verification/proofs/coq/.*.aux
 # Agda compiled proof artifacts
 verification/proofs/agda/*.agdai
 
-.editorconfig
