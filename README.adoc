@@ -9,15 +9,23 @@ image:https://img.shields.io/badge/Docs-CC--BY--SA--4.0-blue.svg?logo=creativeco
 image:https://img.shields.io/badge/RSR-Rhodium_Standard-9C27B0[Rhodium Standard Repository,link="https://github.com/hyperpolymath/rhodium-standard-repositories"]
 image:https://img.shields.io/badge/status-reserved-lightgrey[Reserved placeholder]
 
-_Fourth Stealth Glider investigation: scope not yet specified. Reserved placeholder in the metadatastician Stealth Glider line._
+_Fourth Stealth Glider investigation (reserved): introduces resource mechanics — munitions and fuel — onto the live Conway field. Intent recorded 2026-09-02 (owner ruling); no implementation yet._
 
 [IMPORTANT]
 ====
 This repository is a *reserved placeholder*. It holds the project's identity,
-its position in the Stealth Glider line and the estate scaffold. It contains no
-implementation, no specification and no playable artefact. The investigation's
-scope will be filled in by pull request when it is specified.
+its position in the Stealth Glider line, the recorded intent (below) and the
+estate scaffold. It contains no implementation, no formal specification and no
+playable artefact. Work begins by pull request; the CLADE phase moves to
+`incubating` only when the first content lands.
 ====
+
+== Intent
+
+Resource-type things arrive here: munitions and fuel, spent and replenished on the live Conway field, so that every move now has a cost as well as a lawful successor state. That is the whole of what is recorded; how the resources are represented on the field, and what gates they must pass, is not yet specified.
+
+Recorded 2026-09-02 by owner ruling. Intent is not work begun: the CLADE phase
+stays `reserved` until the first content lands.
 
 == Position in the line
 
