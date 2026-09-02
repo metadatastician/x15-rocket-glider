@@ -4,16 +4,21 @@
 
 == Current status
 
-Reserved. This is the fourth investigation in the Stealth Glider line; its scope
-is not yet specified. The series roadmap lives in the coordination hub,
+Reserved, with intent recorded. This is the fourth investigation in the Stealth
+Glider line. The series roadmap lives in the coordination hub,
 https://github.com/metadatastician/stealth-glider-ecosystem[stealth-glider-ecosystem].
+
+== Intent (recorded 2026-09-02, owner ruling)
+
+Resource-type things arrive here: munitions and fuel, spent and replenished on the live Conway field, so that every move now has a cost as well as a lawful successor state. That is the whole of what is recorded; how the resources are represented on the field, and what gates they must pass, is not yet specified.
 
 == Milestones
 
 === Reserved (done)
 * [x] Identity, lineage and estate scaffold minted from rsr-template-repo
+* [x] Intent recorded (2026-09-02, owner ruling)
 
 === Specified (next)
-* [ ] Record the investigation's question and boundaries here and in
-      `machine-readable/descriptiles/ECOSYSTEM.a2ml`
+* [ ] Turn the recorded intent into a specification: question, boundaries and
+      first gate, here and in `machine-readable/descriptiles/ECOSYSTEM.a2ml`
 * [ ] Move CLADE phase from `reserved` to `incubating`
